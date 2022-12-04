@@ -1,4 +1,4 @@
-### Hi there 👋
+![gif from nerdy.dev](https://github.com/mehmetkirlak/mehmetkirlak/blob/master/ezgif.com-gif-maker.gif?raw=true)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
