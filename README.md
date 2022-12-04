@@ -18,6 +18,7 @@
 
 
 ### My Latest Blog Posts
+---
 <!-- BLOG-POST-LIST:START -->
 - [Domain Name System](https://medium.com/folksdev/domain-name-system-c5ecf44536a7?source=rss-b1ff9a2341ef------2)
 - [CAP Theorem](https://medium.com/@kirlakmehmet/cap-theorem-c1dc45141cf1?source=rss-b1ff9a2341ef------2)
@@ -26,9 +27,10 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
+---
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetkirlak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
